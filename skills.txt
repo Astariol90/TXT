@@ -1,0 +1,5 @@
+I will learn:
+Git
+Theory of testing
+Postman
+Java
