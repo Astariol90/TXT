@@ -1,0 +1,4 @@
+Name: Irene Lysenko
+Age: 31
+Pets: 0
+Salary: 40000
